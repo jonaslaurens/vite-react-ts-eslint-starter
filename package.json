@@ -1,6 +1,12 @@
 {
-  "name": "imageflux",
+  "name": "vite-react-ts",
   "version": "0.0.0",
+  "description": "Very empty starter kit for Vite with React and Typescript",
+  "author": {
+    "name": "Jonas Laurens",
+    "email": "jonaslaurens0@gmail.com",
+    "url": "www.jolau.be"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
